@@ -1,0 +1,1 @@
+# lmDiallel-a-new-R-package-to-fit-diallel-models.-The-Griffing-s-models-1956-
